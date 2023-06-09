@@ -2,19 +2,11 @@
 pytest-beeprint
 ===============
 
-.. image:: https://img.shields.io/pypi/v/pytest-beeprint.svg
-    :target: https://pypi.org/project/pytest-beeprint
-    :alt: PyPI version
-
-.. image:: https://img.shields.io/conda/vn/conda-forge/pytest-beeprint.svg
-    :target: https://anaconda.org/conda-forge/pytest-beeprint
-    :alt: conda-forge version
-
 .. image:: https://img.shields.io/pypi/pyversions/pytest-beeprint.svg
     :target: https://pypi.org/project/pytest-beeprint
     :alt: Python versions
 
-Better diffs in `pytest`_ assertion error messages using  `ICDiff`_.
+Better diffs in `pytest`_ assertion error messages using  `beeprint`_ and `ICDiff`_.
 
 Usage
 -----

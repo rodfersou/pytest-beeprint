@@ -14,7 +14,7 @@ def read(fname):
 
 setup(
     name="pytest-beeprint",
-    version="0.1.2",
+    version="0.1.3.dev0",
     author="Rodrigo Ferreira de Souza",
     author_email="rodfersou@gmail.com",
     maintainer="Rodrigo Ferreira de Souza",

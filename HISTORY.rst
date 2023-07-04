@@ -1,7 +1,7 @@
 History
 -------
 
-0.1.2 (unreleased)
+0.1.2 (2023-07-04)
 ~~~~~~~~~~~~~~~~~~
 
 - Fix how to set cols size for tests

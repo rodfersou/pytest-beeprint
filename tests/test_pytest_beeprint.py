@@ -6,7 +6,6 @@ from beeprint import pp
 YELLOW_ON = "\x1b[1;33m"
 COLOR_OFF = "\x1b[m"
 GREEN_ON = "\x1b[1;32m"
-ANSI_ESCAPE_RE = re.compile(r"(\x9B|\x1B\[)[0-?]*[ -/]*[@-~]")
 
 
 def test_short_dict(testdir):
